@@ -8,6 +8,9 @@
 2. 내용
 3. 내용
 <br>
+
+
 ```javascript
-var a = 4;
+var a = 4
+
 ```
